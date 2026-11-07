@@ -1,0 +1,423 @@
+{
+ "dates": [
+  "2026-11-07",
+  "2026-11-08"
+ ],
+ "decisions": {
+  "BET": "paper bet placed",
+  "NOT_SCORED": "no projection yet",
+  "NO_BET": "scored, edge found, confidence too low",
+  "NO_PICK": "scored, no head edge under the policy"
+ },
+ "games": [
+  {
+   "away": "DEN",
+   "date": "2026-11-07",
+   "decision": "NO_PICK",
+   "game_id": "0022600189",
+   "home": "IND",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": -307,
+     "book": "pinnacle",
+     "home_line": null,
+     "home_price": 271,
+     "ts": "2026-11-07T18:15:03Z"
+    },
+    "SPREAD": {
+     "away_line": -7.5,
+     "away_price": -112,
+     "book": "pinnacle",
+     "home_line": 7.5,
+     "home_price": 102,
+     "ts": "2026-11-07T18:15:03Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-07T21:00:00Z",
+    "exp_margin": -0.2924557681837564,
+    "margin_sd": 250011.13401189388,
+    "model_version": "heads-6eeffa5d9a",
+    "p_cover_home": null,
+    "p_home_win": 0.49210440124076843
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-07T22:00:00Z"
+  },
+  {
+   "away": "BKN",
+   "date": "2026-11-07",
+   "decision": "NO_PICK",
+   "game_id": "0022600190",
+   "home": "ATL",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 254,
+     "book": "pinnacle",
+     "home_line": null,
+     "home_price": -304,
+     "ts": "2026-11-07T18:15:03Z"
+    },
+    "SPREAD": {
+     "away_line": 7.5,
+     "away_price": -106,
+     "book": "pinnacle",
+     "home_line": -7.5,
+     "home_price": -107,
+     "ts": "2026-11-07T18:15:03Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-07T23:30:00Z",
+    "exp_margin": 1.6447015285313638,
+    "margin_sd": 250011.13401189388,
+    "model_version": "heads-6eeffa5d9a",
+    "p_cover_home": null,
+    "p_home_win": 0.5442277645699276
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T00:30:00Z"
+  },
+  {
+   "away": "NYK",
+   "date": "2026-11-07",
+   "decision": "NO_PICK",
+   "game_id": "0022600191",
+   "home": "CLE",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": -190,
+     "book": "pinnacle",
+     "home_line": null,
+     "home_price": 170,
+     "ts": "2026-11-07T18:15:03Z"
+    },
+    "SPREAD": {
+     "away_line": -5.0,
+     "away_price": -102,
+     "book": "pinnacle",
+     "home_line": 5.0,
+     "home_price": -108,
+     "ts": "2026-11-07T18:15:03Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T00:00:00Z",
+    "exp_margin": 0.31971150159586703,
+    "margin_sd": 250011.13401189388,
+    "model_version": "heads-6eeffa5d9a",
+    "p_cover_home": null,
+    "p_home_win": 0.5088897173334268
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T01:00:00Z"
+  },
+  {
+   "away": "WAS",
+   "date": "2026-11-07",
+   "decision": "NO_PICK",
+   "game_id": "0022600192",
+   "home": "OKC",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 451,
+     "book": "pinnacle",
+     "home_line": null,
+     "home_price": -600,
+     "ts": "2026-11-07T18:15:03Z"
+    },
+    "SPREAD": {
+     "away_line": 11.5,
+     "away_price": 103,
+     "book": "pinnacle",
+     "home_line": -11.5,
+     "home_price": -116,
+     "ts": "2026-11-07T18:15:03Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T00:00:00Z",
+    "exp_margin": 1.3803494950914805,
+    "margin_sd": 250011.13401189388,
+    "model_version": "heads-6eeffa5d9a",
+    "p_cover_home": null,
+    "p_home_win": 0.5373764266677913
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T01:00:00Z"
+  },
+  {
+   "away": "ORL",
+   "date": "2026-11-07",
+   "decision": "NO_PICK",
+   "game_id": "0022600193",
+   "home": "GSW",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 192,
+     "book": "pinnacle",
+     "home_line": null,
+     "home_price": -217,
+     "ts": "2026-11-07T18:15:03Z"
+    },
+    "SPREAD": {
+     "away_line": 5.5,
+     "away_price": -103,
+     "book": "pinnacle",
+     "home_line": -5.5,
+     "home_price": -107,
+     "ts": "2026-11-07T18:15:03Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T00:30:00Z",
+    "exp_margin": 1.8919811925498107,
+    "margin_sd": 250011.13401189388,
+    "model_version": "heads-6eeffa5d9a",
+    "p_cover_home": null,
+    "p_home_win": 0.5511335150150755
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T01:30:00Z"
+  },
+  {
+   "away": "HOU",
+   "date": "2026-11-07",
+   "decision": "NO_PICK",
+   "game_id": "0022600194",
+   "home": "PHX",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": -257,
+     "book": "pinnacle",
+     "home_line": null,
+     "home_price": 224,
+     "ts": "2026-11-07T18:15:03Z"
+    },
+    "SPREAD": {
+     "away_line": -6.0,
+     "away_price": -113,
+     "book": "pinnacle",
+     "home_line": 6.0,
+     "home_price": 102,
+     "ts": "2026-11-07T18:15:03Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T01:00:00Z",
+    "exp_margin": -0.7024576978934591,
+    "margin_sd": 250011.13401189388,
+    "model_version": "heads-6eeffa5d9a",
+    "p_cover_home": null,
+    "p_home_win": 0.4808297757286409
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T02:00:00Z"
+  },
+  {
+   "away": "SAS",
+   "date": "2026-11-07",
+   "decision": "NO_PICK",
+   "game_id": "0022600195",
+   "home": "POR",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": -189,
+     "book": "pinnacle",
+     "home_line": null,
+     "home_price": 169,
+     "ts": "2026-11-07T18:15:03Z"
+    },
+    "SPREAD": {
+     "away_line": -5.5,
+     "away_price": 100,
+     "book": "pinnacle",
+     "home_line": 5.5,
+     "home_price": -110,
+     "ts": "2026-11-07T18:15:03Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T02:00:00Z",
+    "exp_margin": 0.7348043229852663,
+    "margin_sd": 250011.13401189388,
+    "model_version": "heads-6eeffa5d9a",
+    "p_cover_home": null,
+    "p_home_win": 0.5204999179640912
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T03:00:00Z"
+  },
+  {
+   "away": "PHI",
+   "date": "2026-11-08",
+   "decision": "NO_PICK",
+   "game_id": "0022600196",
+   "home": "CHI",
+   "market": {
+    "ML": null,
+    "SPREAD": null
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T19:30:00Z",
+    "exp_margin": -1.4426052545555377,
+    "margin_sd": 14.853821078619083,
+    "model_version": "heads-bbccd6ea7b",
+    "p_cover_home": null,
+    "p_home_win": 0.46990706575524804
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T20:30:00Z"
+  },
+  {
+   "away": "LAL",
+   "date": "2026-11-08",
+   "decision": "NO_PICK",
+   "game_id": "0022600197",
+   "home": "DET",
+   "market": {
+    "ML": null,
+    "SPREAD": null
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T22:00:00Z",
+    "exp_margin": 1.0676513785647652,
+    "margin_sd": 14.853821078619083,
+    "model_version": "heads-bbccd6ea7b",
+    "p_cover_home": null,
+    "p_home_win": 0.5254558908188391
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-08T23:00:00Z"
+  },
+  {
+   "away": "UTA",
+   "date": "2026-11-08",
+   "decision": "NO_PICK",
+   "game_id": "0022600198",
+   "home": "MIN",
+   "market": {
+    "ML": null,
+    "SPREAD": null
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T23:00:00Z",
+    "exp_margin": 2.9193963852331595,
+    "margin_sd": 14.853821078619083,
+    "model_version": "heads-bbccd6ea7b",
+    "p_cover_home": null,
+    "p_home_win": 0.5627929653238725
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-09T00:00:00Z"
+  },
+  {
+   "away": "BKN",
+   "date": "2026-11-08",
+   "decision": "NO_PICK",
+   "game_id": "0022600199",
+   "home": "DAL",
+   "market": {
+    "ML": null,
+    "SPREAD": null
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-08T23:30:00Z",
+    "exp_margin": 2.0670720056277947,
+    "margin_sd": 14.853821078619083,
+    "model_version": "heads-bbccd6ea7b",
+    "p_cover_home": null,
+    "p_home_win": 0.5477494681849426
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-09T00:30:00Z"
+  },
+  {
+   "away": "BOS",
+   "date": "2026-11-08",
+   "decision": "NO_PICK",
+   "game_id": "0022600200",
+   "home": "MIL",
+   "market": {
+    "ML": null,
+    "SPREAD": null
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-09T00:00:00Z",
+    "exp_margin": -1.5965257041199326,
+    "margin_sd": 14.853821078619083,
+    "model_version": "heads-bbccd6ea7b",
+    "p_cover_home": null,
+    "p_home_win": 0.4664921661577641
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-09T01:00:00Z"
+  },
+  {
+   "away": "NOP",
+   "date": "2026-11-08",
+   "decision": "NO_PICK",
+   "game_id": "0022600201",
+   "home": "LAC",
+   "market": {
+    "ML": null,
+    "SPREAD": null
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-09T01:00:00Z",
+    "exp_margin": -0.049993823028068846,
+    "margin_sd": 14.853821078619083,
+    "model_version": "heads-bbccd6ea7b",
+    "p_cover_home": null,
+    "p_home_win": 0.4991973769087128
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-09T02:00:00Z"
+  },
+  {
+   "away": "MIA",
+   "date": "2026-11-08",
+   "decision": "NO_PICK",
+   "game_id": "0022600202",
+   "home": "SAC",
+   "market": {
+    "ML": null,
+    "SPREAD": null
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-09T01:00:00Z",
+    "exp_margin": -0.6558644358140208,
+    "margin_sd": 14.853821078619083,
+    "model_version": "heads-bbccd6ea7b",
+    "p_cover_home": null,
+    "p_home_win": 0.487803755453835
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-09T02:00:00Z"
+  }
+ ],
+ "prev_sha256": "3feeaf2849d1f85894be2a2a543a2743298a7d64e50415ec11fcad7b1ad8f05c",
+ "record_ts": "2026-11-07T18:32:54Z",
+ "schema": 1
+}
