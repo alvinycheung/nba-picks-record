@@ -1,0 +1,413 @@
+{
+ "dates": [
+  "2026-11-26",
+  "2026-11-27"
+ ],
+ "decisions": {
+  "BET": "paper bet placed",
+  "NOT_SCORED": "no projection yet",
+  "NO_BET": "scored, edge found, confidence too low",
+  "NO_PICK": "scored, no head edge under the policy"
+ },
+ "games": [
+  {
+   "away": "MIA",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600064",
+   "home": "NYK",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 145,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -165,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 3.5,
+     "away_price": -105,
+     "book": "betanysports",
+     "home_line": -3.5,
+     "home_price": -115,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-27T23:00:00Z",
+    "exp_margin": 3.463113567434663,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.4990734665276853,
+    "p_home_win": 0.5998541729546043
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T00:00:00Z"
+  },
+  {
+   "away": "MIL",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600065",
+   "home": "DET",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 390,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -490,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 9.5,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -9.5,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-27T23:30:00Z",
+    "exp_margin": 9.314948771354322,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.4953518835950445,
+    "p_home_win": 0.7504830878892248
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T00:30:00Z"
+  },
+  {
+   "away": "PHI",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600066",
+   "home": "IND",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": -150,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": 130,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": -2.5,
+     "away_price": -115,
+     "book": "betanysports",
+     "home_line": 2.5,
+     "home_price": -105,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-27T23:30:00Z",
+    "exp_margin": -2.974813208193735,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.5006486324129882,
+    "p_home_win": 0.41831181747482854
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T00:30:00Z"
+  },
+  {
+   "away": "BKN",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600067",
+   "home": "TOR",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 270,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -340,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 8.0,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -8.0,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-27T23:30:00Z",
+    "exp_margin": 7.523349689412728,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.5005865105124017,
+    "p_home_win": 0.7125053870744997
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T00:30:00Z"
+  },
+  {
+   "away": "ATL",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600068",
+   "home": "BOS",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 360,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -460,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 9.5,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -9.5,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-28T00:00:00Z",
+    "exp_margin": 9.620696919049198,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.5030317043932572,
+    "p_home_win": 0.7616893133696745
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T01:00:00Z"
+  },
+  {
+   "away": "MEM",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600069",
+   "home": "MIN",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 145,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -165,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 3.5,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -3.5,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-28T00:30:00Z",
+    "exp_margin": 3.6332286309568644,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.5033464729651003,
+    "p_home_win": 0.6044025859639887
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T01:30:00Z"
+  },
+  {
+   "away": "DAL",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600070",
+   "home": "PHX",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 115,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -135,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 2.5,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -2.5,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-28T01:00:00Z",
+    "exp_margin": 2.4486419027663824,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.49870996047323707,
+    "p_home_win": 0.5636353979062454
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T02:00:00Z"
+  },
+  {
+   "away": "LAL",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600071",
+   "home": "SAS",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 190,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -230,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 5.5,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -5.5,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-28T01:30:00Z",
+    "exp_margin": 5.308506339068333,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.4951900703026012,
+    "p_home_win": 0.6476257958619517
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T02:30:00Z"
+  },
+  {
+   "away": "DEN",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600072",
+   "home": "UTA",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": -490,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": 390,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": -10.0,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": 10.0,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-28T01:30:00Z",
+    "exp_margin": -9.552401161476444,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.4986837603345879,
+    "p_home_win": 0.23925217554582787
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T02:30:00Z"
+  },
+  {
+   "away": "NOP",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600073",
+   "home": "LAC",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 112,
+     "book": "betclic_fr",
+     "home_line": null,
+     "home_price": -175,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 3.0,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -3.0,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-28T01:30:00Z",
+    "exp_margin": 3.270074627441551,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.49422480599005575,
+    "p_home_win": 0.58673920386426
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T02:30:00Z"
+  },
+  {
+   "away": "GSW",
+   "date": "2026-11-27",
+   "decision": "NO_PICK",
+   "game_id": "0022600074",
+   "home": "POR",
+   "market": {
+    "ML": {
+     "away_line": null,
+     "away_price": 350,
+     "book": "betanysports",
+     "home_line": null,
+     "home_price": -440,
+     "ts": "2026-11-27T02:45:05Z"
+    },
+    "SPREAD": {
+     "away_line": 8.5,
+     "away_price": -110,
+     "book": "betanysports",
+     "home_line": -8.5,
+     "home_price": -110,
+     "ts": "2026-11-27T02:45:05Z"
+    }
+   },
+   "pick": null,
+   "projection": {
+    "as_of_ts": "2026-11-28T01:30:00Z",
+    "exp_margin": 8.469035672754536,
+    "margin_sd": 15.882366621570803,
+    "model_version": "heads-b5adfa19a0",
+    "p_cover_home": 0.4992222209831055,
+    "p_home_win": 0.7346849124248205
+   },
+   "status": "SCHEDULED",
+   "tip_utc": "2026-11-28T02:30:00Z"
+  }
+ ],
+ "prev_sha256": "29848b83ec248f1a2a1bae40dc18e861bce3691e17b49d69fc9a0fdd4aedd542",
+ "record_ts": "2026-11-27T02:46:18Z",
+ "schema": 1
+}
